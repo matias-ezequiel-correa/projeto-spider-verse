@@ -1,6 +1,6 @@
 @media (max-width: 769px) {
     main::after {
-        background: linear-gradient(odeg, #000 20%, rgba(0, 0, 0, 0) 65%) no-repeat;
+        background: linear-gradient(0deg, #000 20%, rgba(0, 0, 0, 0) 65%) no-repeat;
         width: 100vw;
     }
 
@@ -38,18 +38,43 @@
 
 @media (max-width: 425px) {
     main .personagem .imagem {
-        height: auto;
+        height: 75%;
     }
 
-    .conteudo .logo {
-        height: 170px;
+    .conteudo .logo-1 {
+        width: 250px;
         height: 75px;
+        margin-bottom: 10px;
+    }
+
+    .conteudo .logo-2 {
+        width: 250px;
+        height: 45px;
+        margin-bottom: 10px;
+    }
+
+    .conteudo .logo-3 {
+        width: 250px;
+        height: 35px;
+        margin-bottom: 10px;
+    }
+
+    .conteudo .logo-4 {
+        width: 250px;
+        height: 85px;
+        margin-bottom: 10px;
+    }
+
+    .conteudo .logo-5 {
+        width: 250px;
+        height: 65px;
+        margin-bottom: 10px;
     }
 
     .conteudo {
         justify-content: flex-end;
         left: 0;
-        top: -30%;
+        padding: 10px 20px;
     }
 
     .conteudo .nome-personagem {
@@ -62,7 +87,7 @@
 
     .botoes {
         padding: 20px;
-        top: -20%;
+        top: -5%;
     }
 
     .botoes .botao img {

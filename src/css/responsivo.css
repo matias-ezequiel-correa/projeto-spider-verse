@@ -34,6 +34,19 @@
     .botoes .botao img {
         max-width: 60px;
     }
+
+    .menu-lateral{
+        min-height: auto;
+        margin-top: 10px;
+    }
+
+    .menu-lateral ul{
+        flex-direction: row;
+    }
+
+    .menu-lateral .icone{
+        width: 20px;
+    }
 }
 
 @media (max-width: 425px) {
@@ -89,6 +102,11 @@
         padding: 20px;
         top: -10%;
     }
+
+    .botoes .botao img {
+        max-width: 50px;
+    }   
+}
 
     .botoes .botao img {
         max-width: 50px;

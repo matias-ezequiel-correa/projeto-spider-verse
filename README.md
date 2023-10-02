@@ -10,7 +10,7 @@
 
 ## Desing: 
 * Desktop:
-[<p align="center"><img height="400em" src="./src/design/projeto-spider-verse-desktop-video.mp4" alt="Projeto Spider-Verse - Versão Desktop">](https://matias-ezequiel-correa.github.io/projeto-spider-verse/)<p>
+[<p align="center"><img height="400em" src="./src/design/projeto-spider-verse-desktop-video.gif" alt="Projeto Spider-Verse - Versão Desktop">](https://matias-ezequiel-correa.github.io/projeto-spider-verse/)<p>
 
 * Mobile:
 [<p align="center"><img width=250 src="./src/design/projeto-spider-verse-mobile-video.gif" alt="Projeto Spider-Verse - Versão Mobile">](https://matias-ezequiel-correa.github.io/projeto-spider-verse/)<p>

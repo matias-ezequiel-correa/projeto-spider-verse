@@ -22,7 +22,7 @@
 
     .conteudo .descricao {
         max-width: 500px;
-        max-height: 120px;
+        max-height: 132px;
         overflow-y: scroll;
         margin-bottom: 10px;
     }

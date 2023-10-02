@@ -184,6 +184,9 @@ main .personagem .imagem {
     width: 30px;
     filter: invert(1);
     transition: 0.3s ease-in-out;
+
+    animation: fadeIn;
+    animation-duration: 3s;
 }
 
 .menu-lateral .icone:hover{
